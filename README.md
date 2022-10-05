@@ -40,8 +40,11 @@ Quick Demo of the game: https://youtu.be/IRDmGgiu-UM
 ## References
 
 Some great creators and tutors on game development who inspired me for this project:
+
 John : https://www.youtube.com/c/LostRelicGames
+
 Brackeys : https://www.youtube.com/c/Brackeys/featured
+
 Game Dev Unlocked: https://www.youtube.com/c/GameDevUnlocked/videos
 
 [Back To The Top](#DeepsAdventure-AUnity2Dgame)
