@@ -4,3 +4,5 @@ During covid lockdown, I learned some Unity 2D game development and developed a 
 Link - https://drive.google.com/file/d/1oLC26dZcePWQiUODG56bBYVPyNQl8Dva/view?usp=sharing
 
 Demo of the game - https://youtu.be/IRDmGgiu-UM
+
+![Project Image](/Users/deepshah/Downloads/6vud8f.gif)
