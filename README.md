@@ -5,3 +5,7 @@ Link - https://drive.google.com/file/d/1oLC26dZcePWQiUODG56bBYVPyNQl8Dva/view?us
 
 Demo of the game - https://youtu.be/IRDmGgiu-UM
 
+
+
+
+![6vuf6k](https://user-images.githubusercontent.com/48095548/194117653-f8555ce9-5280-4e0a-8cfd-a4e169222bca.gif)
