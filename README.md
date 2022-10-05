@@ -14,12 +14,13 @@
 
 ## Description
 
-During covid lockdown, I learned some Unity 2D game development and developed a game in C#. I even used photoshop to add visuals and interactivity to the game. If you have reached here, please consider downloading my final version of the game.
+Gaming is one of my favorite hobbies, so I decided to develop an interactive game in the Unity engine. During the covid lockdown, I learned Unity 2D game development and designed a game in C#. I used Photoshop to add visuals and interactivity to the game. 
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+- Unity Engine
+- Photoshop
+- Visual Studio 
 
 [Back To The Top](#DeepsAdventure-AUnity2Dgame)
 
@@ -29,19 +30,21 @@ During covid lockdown, I learned some Unity 2D game development and developed a 
 
 #### Installation
 
+The current version of the game is developed for Android : https://drive.google.com/file/d/1oLC26dZcePWQiUODG56bBYVPyNQl8Dva/view?usp=sharing
 
-
-#### API Reference
-
-```html
-    <p>dummy code</p>
-```
-[Back To The Top](#read-me-template)
+Quick Demo of the game: https://youtu.be/IRDmGgiu-UM
+[Back To The Top](#DeepsAdventure-AUnity2Dgame)
 
 ---
 
 ## References
-[Back To The Top](#read-me-template)
+
+Some great creators and tutors on game development who inspired me for this project:
+John : https://www.youtube.com/c/LostRelicGames
+Brackeys : https://www.youtube.com/c/Brackeys/featured
+Game Dev Unlocked: https://www.youtube.com/c/GameDevUnlocked/videos
+
+[Back To The Top](#DeepsAdventure-AUnity2Dgame)
 
 ---
 
@@ -49,7 +52,7 @@ During covid lockdown, I learned some Unity 2D game development and developed a 
 
 MIT License
 
-Copyright (c) [2017] [James Q Quick]
+Copyright (c) [2017] [Deep Shah]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -75,7 +78,7 @@ SOFTWARE.
 
 ## Author Info
 
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
+- Linkedin - [Deep Shah](https://www.linkedin.com/in/deep-shah-378458191/)
+- Website - [GitHub](https://github.com/DeepShah99)
 
 [Back To The Top](#read-me-template)
