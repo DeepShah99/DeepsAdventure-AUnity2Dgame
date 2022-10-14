@@ -33,6 +33,7 @@ Gaming is one of my favorite hobbies, so I decided to develop an interactive gam
 The current version of the game is developed for Android : https://drive.google.com/file/d/1oLC26dZcePWQiUODG56bBYVPyNQl8Dva/view?usp=sharing
 
 Quick Demo of the game: https://youtu.be/IRDmGgiu-UM
+
 [Back To The Top](#DeepsAdventure-AUnity2Dgame)
 
 ---
@@ -75,7 +76,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#DeepsAdventure-AUnity2Dgame)
+[Back To The Top](#read-me-template)
 
 ---
 
@@ -84,4 +85,4 @@ SOFTWARE.
 - Linkedin - [Deep Shah](https://www.linkedin.com/in/deep-shah-378458191/)
 - Website - [GitHub](https://github.com/DeepShah99)
 
-[Back To The Top](#DeepsAdventure-AUnity2Dgame)
+[Back To The Top](#read-me-template)
